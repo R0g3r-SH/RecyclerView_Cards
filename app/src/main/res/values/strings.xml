@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">RecyclerView_Cards</string>
+
+    <string-array name="programing_languages">
+        <item>Tom</item>
+        <item>Snoopy</item>
+        <item>A.de Santa</item>
+        <item>Dino</item>
+        <item>Scooby Doo</item>
+        <item>Blniky</item>
+
+    </string-array>
+    <string-array name="description">
+        <item>10</item>
+        <item>20</item>
+        <item>54</item>
+        <item>28</item>
+        <item>50</item>
+        <item>500</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="programing_languages2">
+        <item>Blniky</item>
+        <item>Scooby Doo</item>
+        <item>A.de Santa</item>
+        <item>Dino</item>
+        <item>Tom</item>
+
+
+
+
+
+    </string-array>
+    <string-array name="description2">
+        <item>500</item>
+        <item>50</item>
+        <item>54</item>
+        <item>28</item>
+        <item>20</item>
+
+
+
+
+
+
+
+    </string-array>
+</resources>
